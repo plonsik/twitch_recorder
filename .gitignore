@@ -1,0 +1,11 @@
+node_modules
+dist/
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/mitomantv.iml
+/.idea/modules.xml
+/package-lock.json
+/.idea/prettier.xml
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
+mitoman.db
